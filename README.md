@@ -513,7 +513,8 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [persistent systems](https://www.persistent.com/careers/)  
 1.   [PharmEasy](https://pharmeasy.in/careers/)  
 1.   [Phillips](https://www.careers.philips.com/professional/in/en)
-1.   [Phonepe](https://www.phonepe.com/careers/)  
+1.   [Phonepe](https://www.phonepe.com/careers/)
+1.   [Physicswallah](http://careers.pw.live/)
 1.   [Playment](https://www.playment.io/careers)  
 1.   [Planful](https://planful.com/jobs/)  
 1.   [Polygon Technology](https://polygon.technology/careers/)
@@ -528,6 +529,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Prodapt](https://www.prodapt.com/en/careers/)
 1.   [Publicis Sapient](https://careers.publicissapient.com/)
 1.   [PubMatic](https://pubmatic.com/careers/home/)
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
